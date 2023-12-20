@@ -1,1 +1,4 @@
-# streamlit_demo
+###  Run
+```
+streamlit run _.py
+```
